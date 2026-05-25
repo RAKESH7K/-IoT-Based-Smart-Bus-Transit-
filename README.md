@@ -90,7 +90,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](assets/circuitDiagram.png)
+![Circuit Diagram](assets/CircuitDiagram.png)
 
 ---
 
