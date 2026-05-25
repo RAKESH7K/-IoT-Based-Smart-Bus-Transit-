@@ -25,7 +25,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## 🧱 System Architecture
 
- [Block Diagram](assets/BlockDiagram.png)
+ ![Block Diagram](assets/BlockDiagram.png)
 
 ```
 [RFID Card] → [EM-18 Reader] → [Arduino Nano]
@@ -52,7 +52,7 @@ The system removes the need for a conductor entirely and provides operators with
 ## ⚙️ How It Works
 
   ![Flowchart1](assets/flowchart1.png)
-  [Flowchart2](assets/flowchart2.png)
+  ![Flowchart2](assets/flowchart2.png)
   
 
 ### Entry Flow
