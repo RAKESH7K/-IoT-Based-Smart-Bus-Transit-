@@ -6,7 +6,7 @@
 
 ## 📹 Demo
 
-▶️ [Watch Working Demo Video](#) <!-- Replace with your actual video link -->
+https://github.com/RAKESH7K/-IoT-Based-Smart-Bus-Transit-/raw/main/VID-202230105-WA0023.mp4
 
 ---
 
