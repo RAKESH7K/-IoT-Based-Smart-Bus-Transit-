@@ -25,7 +25,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## 🧱 System Architecture
 
-> 📎 *(Attach your Block Diagram image here)*
+> 📎 ![Block Diagram](assets/BlockDiagram.png)
 
 ```
 [RFID Card] → [EM-18 Reader] → [Arduino Nano]
@@ -51,7 +51,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## ⚙️ How It Works
 
-> 📎 *(Attach your Flowchart image here)*
+> 📎 ![Flowchart](assets/flowchart1.png)
 
 ### Entry Flow
 1. Passenger scans RFID card on **Entry EM-18 Reader**
@@ -88,7 +88,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## 🔌 Circuit Diagram
 
-> 📎 *(Attach your Circuit Diagram image here)*
+> 📎![Circuit Diagram](assets/circuitDiagram.png)
 
 ---
 
@@ -128,7 +128,7 @@ The system removes the need for a conductor entirely and provides operators with
 
 ## 📄 Project Report
 
-> 📎 *(Attach or link your full project report PDF here if available)*
+> 📎[📥 Download Full Report](assets/project-Report.pdf)
 
 ---
 
@@ -137,7 +137,7 @@ The system removes the need for a conductor entirely and provides operators with
 **Rakesh K**
 MSc Electronics | University of Calicut | 4th Rank Holder
 
-[![LinkedIn](#)](your-linkedin-url) [![GitHub](#)](your-github-url)
+[![LinkedIn](#)](https://www.linkedin.com/in/rakesh-k-76b06724a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2PX3J4sORKCKllRD%2B7WvOQ%3D%3D) 
 
 ---
 
